@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApi</string>
+    <string name="titulo">Título</string>
+    <string name="corpo">Corpo</string>
+    <string name="salvar_alteracoes">Salvar Alterações</string>
+    <string name="excluir_postagem">Excluir Postagem</string>
+    <string name="criar_postagem">Criar Postagem</string>
+</resources>
